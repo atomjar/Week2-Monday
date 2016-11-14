@@ -1,0 +1,88 @@
+
+.gist {
+  max-width: 40em;
+}
+
+h1, h2 {
+  font-family: 'Francois One', sans-serif;
+}
+
+h1 {
+  padding-top: 15em;
+  text-align: center;
+  color: white;
+  padding-top: 18px;
+  font-size: 50px;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
+
+header {
+  background-image: url(http://www.bluelinedesignco.com/assets/img/header-background.png);
+  margin: 0 auto;
+  background-size: cover;
+  width: 100%;
+  margin-top: -35px;
+  height: 10em;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+.equal {
+  font-size: 20px;
+}
+
+div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+header p {
+  color: white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin-top: -25px;
+}
+
+hr {
+  display: inline-block;
+  width: 60em;
+}
+
+aside {
+  width: 40em;
+  display: inline-block;
+  margin: auto;
+}
+
+.explain {
+  margin-top: 1em;
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  width: 40em;
+  text-align: justify;
+  line-height: 1.5em;
+  padding-bottom: 5em;
+}
+
+img {
+  display: inline-block;
+  margin-left: 33em;
+
+}
+
+footer {
+  background: black;
+  padding: .5em;
+  max-height: 4em;
+
+}
+
+footer span {
+  color: white;
+  padding-bottom: 10px;
+}
